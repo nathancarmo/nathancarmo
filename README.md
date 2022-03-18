@@ -8,7 +8,10 @@
 * Funcional responsável pelo módulo SAP TM (Transportation Management).
 
 #### Atuação por hobby:
-* Desenvolvimento de scripts para FiveM
+* Desenvolvimento de scripts para FiveM.
+* Desenvolvimento back-end.
+* Web Scrapping.
+* Banco de dados.
 
 ### Experiência com as tecnologias:
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
