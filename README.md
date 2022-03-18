@@ -2,7 +2,7 @@
 
 #### Atualmente, trabalho com:
 * 👨‍💻 Desenvolvimento de soluções ABAP para o sistema ERP SAP.
-* 🤵 Analista funcional responsável pelo módulo SAP TM (Transportation Management).
+* 🤵 Funcional responsável pelo módulo SAP TM (Transportation Management).
 
 #### Atuação por hobby:
 * Desenvolvimento de scripts para FiveM
