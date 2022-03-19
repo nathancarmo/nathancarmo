@@ -1,17 +1,25 @@
 ### Olá, eu sou o Nathan! ✋
 
+##
+
 #### Cursando:
 * Análise e Desenvolvimento de Sistemas (3/5).
+
+##
 
 #### Atualmente, trabalho com:
 * Desenvolvimento de soluções ABAP para o sistema ERP SAP.
 * Analista funcional responsável pelo módulo SAP TM (Transportation Management).
+
+##
 
 #### Atuação por hobby:
 * Desenvolvimento de scripts para FiveM.
 * Desenvolvimento back-end.
 * Web Scrapping.
 * Banco de dados.
+
+##
 
 ### Experiência com as tecnologias:
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
@@ -23,7 +31,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-
+##
+### GitHub Stats:
 <div align="center">
   <a href="https://github.com/nathancarmo">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nathancarmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
