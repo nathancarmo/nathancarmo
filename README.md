@@ -1,4 +1,4 @@
-<img align="right" height="350em" src="https://cdn.discordapp.com/attachments/953066773849206805/953241076016230410/nh.gif">
+<img align="right" height="400px" src="https://cdn.discordapp.com/attachments/953066773849206805/953241076016230410/nh.gif">
 
 #### Salve, eu sou o Nathan! ✋
 
