@@ -11,7 +11,6 @@
 
 #### Atualmente, trabalho com:
 * Desenvolvimento de soluções ABAP para o sistema ERP SAP.
-* Analista funcional responsável pelo módulo SAP TM (Transportation Management).
 
 ##
 
