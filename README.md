@@ -5,7 +5,7 @@
 ##
 
 #### Cursando:
-* Análise e Desenvolvimento de Sistemas (3/5).
+* Análise e Desenvolvimento de Sistemas (4/5).
 
 ##
 
