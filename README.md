@@ -4,8 +4,6 @@
 
 ##
 
-##
-
 #### Atualmente, trabalho com:
 * Desenvolvimento de soluções ABAP para o sistema ERP SAP.
 
