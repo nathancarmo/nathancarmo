@@ -4,9 +4,6 @@
 
 ##
 
-#### Cursando:
-* Análise e Desenvolvimento de Sistemas (4/5).
-
 ##
 
 #### Atualmente, trabalho com:
